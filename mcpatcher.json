@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "patcherVersion": "5.0.0-beta1",
+  "uiX": -980,
+  "uiY": 391,
+  "uiW": 528,
+  "uiH": 550,
+  "uiFlags": 0,
+  "betaWarningShown": true,
+  "selectPatchedProfile": true,
+  "fetchRemoteVersionList": true,
+  "extraProfiling": false,
+  "floodMessageLimit": 1000,
+  "logging": {
+    "Texture Pack": "INFO",
+    "Tilesheet": "INFO",
+    "Custom Animations": "INFO",
+    "Mipmap": "INFO",
+    "HD Font": "INFO",
+    "Random Mobs": "INFO",
+    "Custom Colors": "INFO",
+    "Better Skies": "INFO",
+    "Connected Textures": "INFO",
+    "Custom Item Textures": "INFO"
+  },
+  "profiles": {
+    "MCPatcher": {
+      "original": "raxenoth",
+      "version": "1.8-mcpatcher",
+      "config": {
+        "Extended HD": {
+          "anisotropicFiltering": "1",
+          "antiAliasing": "0",
+          "hdFont": "true",
+          "nonHDFontWidth": "false",
+          "animations": "true",
+          "fancyCompass": "true",
+          "fancyClock": "true",
+          "useGL13": "true",
+          "useScratchTexture": "true"
+        },
+        "Custom Colors": {
+          "water": "true",
+          "swamp": "true",
+          "tree": "true",
+          "potion": "true",
+          "particle": "true",
+          "lightmaps": "true",
+          "clouds": "true",
+          "redstone": "true",
+          "stem": "true",
+          "egg": "true",
+          "map": "true",
+          "dye": "true",
+          "fog": "true",
+          "otherBlocks": "true",
+          "text": "true",
+          "xporb": "true",
+          "fogBlendRadius": "7",
+          "blockBlendRadius2": "4",
+          "yVariance": "0",
+          "smoothBiomes": "true",
+          "testColorSmoothing": "false"
+        },
+        "Better Skies": {
+          "skybox": "true",
+          "unloadTextures": "true",
+          "brightenFireworks": "true",
+          "horizon": "16"
+        }
+      },
+      "versions": {
+        "1.8-mcpatcher": {
+          "original": "1.8",
+          "mods": {
+            "Extended HD": {
+              "type": "builtIn",
+              "enabled": true
+            },
+            "Random Mobs": {
+              "type": "builtIn",
+              "enabled": true
+            },
+            "Custom Colors": {
+              "type": "builtIn",
+              "enabled": true
+            },
+            "Better Skies": {
+              "type": "builtIn",
+              "enabled": true
+            },
+            "Custom Textures and Models": {
+              "type": "builtIn",
+              "enabled": true
+            }
+          }
+        }
+      }
+    }
+  }
+}

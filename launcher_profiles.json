@@ -1,0 +1,44 @@
+{
+  "profiles": {
+    "MCPatcher": {
+      "name": "MCPatcher",
+      "gameDir": "C:\\Users\\Raxenoth\\AppData\\Roaming\\.minecraft",
+      "lastVersionId": "1.8-mcpatcher",
+      "javaDir": "C:\\Program Files\\Java\\jre7\\bin\\javaw.exe",
+      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M",
+      "allowedReleaseTypes": [
+        "release",
+        "snapshot"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    },
+    "raxenoth": {
+      "name": "raxenoth",
+      "gameDir": "C:\\Users\\Raxenoth\\AppData\\Roaming\\.minecraft",
+      "lastVersionId": "1.8",
+      "javaDir": "C:\\Program Files\\Java\\jre7\\bin\\javaw.exe",
+      "javaArgs": "-Xmx4G -XX:+UseConcMarkSweepGC -XX:+CMSIncrementalMode -XX:-UseAdaptiveSizePolicy -Xmn128M",
+      "allowedReleaseTypes": [
+        "release",
+        "snapshot"
+      ],
+      "launcherVisibilityOnGameClose": "hide launcher and re-open when game closes"
+    }
+  },
+  "selectedProfile": "MCPatcher",
+  "clientToken": "4b4203ad-b9fb-4333-8877-4972a6670eb8",
+  "authenticationDatabase": {
+    "9e235634d9144e0bb901bfe175193b01": {
+      "username": "raxenoth@gmail.com",
+      "accessToken": "f700074abafa4d4c9efe9cfdc4752d27",
+      "userid": "d100e4628a80453686c8949315210468",
+      "uuid": "9e235634-d914-4e0b-b901-bfe175193b01",
+      "displayName": "raxenoth"
+    }
+  },
+  "selectedUser": "9e235634d9144e0bb901bfe175193b01",
+  "launcherVersion": {
+    "name": "1.5.3",
+    "format": 17
+  }
+}
