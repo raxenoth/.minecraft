@@ -1,166 +1,373 @@
-[00:00:48] [Server thread/INFO]: [@: Changing to clear weather]
-[00:00:48] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:01:24] [Server thread/INFO]: [@: Set the time to 0]
-[00:01:24] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:03:27] [Server thread/INFO]: [@: Changing to clear weather]
-[00:03:27] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:04:03] [Server thread/INFO]: [@: Set the time to 0]
-[00:04:03] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:06:06] [Server thread/INFO]: [@: Changing to clear weather]
-[00:06:06] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:06:42] [Server thread/INFO]: [@: Set the time to 0]
-[00:06:42] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:08:45] [Server thread/INFO]: [@: Changing to clear weather]
-[00:08:45] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:09:21] [Server thread/INFO]: [@: Set the time to 0]
-[00:09:21] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:11:24] [Server thread/INFO]: [@: Changing to clear weather]
-[00:11:24] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:12:00] [Server thread/INFO]: [@: Set the time to 0]
-[00:12:00] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:14:03] [Server thread/INFO]: [@: Changing to clear weather]
-[00:14:03] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:14:39] [Server thread/INFO]: [@: Set the time to 0]
-[00:14:39] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:16:42] [Server thread/INFO]: [@: Changing to clear weather]
-[00:16:42] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:17:18] [Server thread/INFO]: [@: Set the time to 0]
-[00:17:18] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:19:21] [Server thread/INFO]: [@: Changing to clear weather]
-[00:19:21] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:19:57] [Server thread/INFO]: [@: Set the time to 0]
-[00:19:57] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:22:00] [Server thread/INFO]: [@: Changing to clear weather]
-[00:22:00] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:22:36] [Server thread/INFO]: [@: Set the time to 0]
-[00:22:36] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:24:39] [Server thread/INFO]: [@: Changing to clear weather]
-[00:24:39] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:25:15] [Server thread/INFO]: [@: Set the time to 0]
-[00:25:15] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:27:18] [Server thread/INFO]: [@: Changing to clear weather]
-[00:27:18] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:27:54] [Server thread/INFO]: [@: Set the time to 0]
-[00:27:54] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:29:57] [Server thread/INFO]: [@: Changing to clear weather]
-[00:29:57] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:30:33] [Server thread/INFO]: [@: Set the time to 0]
-[00:30:33] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:32:36] [Server thread/INFO]: [@: Changing to clear weather]
-[00:32:36] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:33:12] [Server thread/INFO]: [@: Set the time to 0]
-[00:33:12] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:35:15] [Server thread/INFO]: [@: Changing to clear weather]
-[00:35:15] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:35:51] [Server thread/INFO]: [@: Set the time to 0]
-[00:35:51] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:37:54] [Server thread/INFO]: [@: Changing to clear weather]
-[00:37:54] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:38:30] [Server thread/INFO]: [@: Set the time to 0]
-[00:38:30] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:40:33] [Server thread/INFO]: [@: Changing to clear weather]
-[00:40:33] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:41:09] [Server thread/INFO]: [@: Set the time to 0]
-[00:41:09] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:43:12] [Server thread/INFO]: [@: Changing to clear weather]
-[00:43:12] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:43:48] [Server thread/INFO]: [@: Set the time to 0]
-[00:43:48] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:45:51] [Server thread/INFO]: [@: Changing to clear weather]
-[00:45:51] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:46:27] [Server thread/INFO]: [@: Set the time to 0]
-[00:46:27] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:48:30] [Server thread/INFO]: [@: Changing to clear weather]
-[00:48:30] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:49:06] [Server thread/INFO]: [@: Set the time to 0]
-[00:49:06] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:51:09] [Server thread/INFO]: [@: Changing to clear weather]
-[00:51:09] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:51:45] [Server thread/INFO]: [@: Set the time to 0]
-[00:51:45] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:53:48] [Server thread/INFO]: [@: Changing to clear weather]
-[00:53:48] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:54:24] [Server thread/INFO]: [@: Set the time to 0]
-[00:54:24] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:56:27] [Server thread/INFO]: [@: Changing to clear weather]
-[00:56:27] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:57:03] [Server thread/INFO]: [@: Set the time to 0]
-[00:57:03] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[00:59:06] [Server thread/INFO]: [@: Changing to clear weather]
-[00:59:06] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[00:59:42] [Server thread/INFO]: [@: Set the time to 0]
-[00:59:42] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:01:45] [Server thread/INFO]: [@: Changing to clear weather]
-[01:01:45] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:02:21] [Server thread/INFO]: [@: Set the time to 0]
-[01:02:21] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:04:24] [Server thread/INFO]: [@: Changing to clear weather]
-[01:04:24] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:05:00] [Server thread/INFO]: [@: Set the time to 0]
-[01:05:00] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:07:03] [Server thread/INFO]: [@: Changing to clear weather]
-[01:07:03] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:07:39] [Server thread/INFO]: [@: Set the time to 0]
-[01:07:39] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:09:42] [Server thread/INFO]: [@: Changing to clear weather]
-[01:09:42] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:10:18] [Server thread/INFO]: [@: Set the time to 0]
-[01:10:18] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:12:21] [Server thread/INFO]: [@: Changing to clear weather]
-[01:12:21] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:12:57] [Server thread/INFO]: [@: Set the time to 0]
-[01:12:57] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:15:00] [Server thread/INFO]: [@: Changing to clear weather]
-[01:15:00] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:15:36] [Server thread/INFO]: [@: Set the time to 0]
-[01:15:36] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:17:39] [Server thread/INFO]: [@: Changing to clear weather]
-[01:17:39] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:18:15] [Server thread/INFO]: [@: Set the time to 0]
-[01:18:15] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:20:18] [Server thread/INFO]: [@: Changing to clear weather]
-[01:20:18] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:20:54] [Server thread/INFO]: [@: Set the time to 0]
-[01:20:54] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:22:57] [Server thread/INFO]: [@: Changing to clear weather]
-[01:22:57] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:23:33] [Server thread/INFO]: [@: Set the time to 0]
-[01:23:33] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:25:36] [Server thread/INFO]: [@: Changing to clear weather]
-[01:25:36] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:26:12] [Server thread/INFO]: [@: Set the time to 0]
-[01:26:12] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:31:30] [pool-2-thread-2/ERROR]: Signature is missing from textures payload
-[01:31:32] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2109ms behind, skipping 42 tick(s)
-[01:32:04] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2307ms behind, skipping 46 tick(s)
-[01:32:33] [Server thread/INFO]: [@: Changing to clear weather]
-[01:32:33] [Server thread/INFO]: [@: Set the time to 0]
-[01:32:33] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:32:33] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:34:36] [Server thread/INFO]: [@: Changing to clear weather]
-[01:34:36] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:35:12] [Server thread/INFO]: [@: Set the time to 0]
-[01:35:12] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:37:15] [Server thread/INFO]: [@: Changing to clear weather]
-[01:37:15] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:37:51] [Server thread/INFO]: [@: Set the time to 0]
-[01:37:51] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:39:54] [Server thread/INFO]: [@: Changing to clear weather]
-[01:39:54] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:40:30] [Server thread/INFO]: [@: Set the time to 0]
-[01:40:30] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
-[01:42:33] [Server thread/INFO]: [@: Changing to clear weather]
-[01:42:33] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
-[01:42:47] [Server thread/INFO]: Saving and pausing game...
-[01:42:47] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
-[01:42:47] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
-[01:42:47] [Server thread/INFO]: Saving chunks for level 'solo'/The End
-[01:42:48] [Server thread/INFO]: Stopping server
-[01:42:48] [Server thread/INFO]: Saving players
-[01:42:48] [Server thread/INFO]: Saving worlds
-[01:42:48] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
-[01:42:48] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
-[01:42:48] [Server thread/INFO]: Saving chunks for level 'solo'/The End
-[01:42:50] [Client thread/INFO]: Stopping!
-[01:42:50] [Client thread/INFO]: SoundSystem shutting down...
-[01:42:50] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
+[20:24:36] [Client thread/INFO]: Setting user: raxenoth
+[20:24:36] [Client thread/INFO]: (Session ID is token:f700074abafa4d4c9efe9cfdc4752d27:9e235634d9144e0bb901bfe175193b01)
+[20:24:37] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:24:37] [Client thread/INFO]: Reloading ResourceManager: Default, Kalos Resource Pack 2.61.zip, Conquest_1.8.zip
+[20:24:45] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:24:45] [Client thread/WARN]: File minecraft:sounds/mob/ghast/fireball.ogg does not exist, cannot add it to event minecraft:item.fireCharge.use
+[20:24:45] [Thread-6/INFO]: Initializing LWJGL OpenAL
+[20:24:45] [Thread-6/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[20:24:45] [Thread-6/ERROR]: Error in class 'LibraryLWJGLOpenAL'
+[20:24:45] [Thread-6/ERROR]: Unable to initialize OpenAL.  Probable cause: OpenAL not supported.
+[20:24:45] [Thread-6/WARN]: ERROR MESSAGE:
+[20:24:45] [Thread-6/INFO]: Could not locate OpenAL library.
+[20:24:45] [Thread-6/WARN]: STACK TRACE:
+[20:24:45] [Thread-6/INFO]: org.lwjgl.openal.AL.create(AL.java:151)
+[20:24:45] [Thread-6/INFO]: org.lwjgl.openal.AL.create(AL.java:102)
+[20:24:45] [Thread-6/INFO]: org.lwjgl.openal.AL.create(AL.java:201)
+[20:24:45] [Thread-6/INFO]: paulscode.sound.libraries.LibraryLWJGLOpenAL.init(LibraryLWJGLOpenAL.java:164)
+[20:24:45] [Thread-6/INFO]: paulscode.sound.SoundSystem.CommandNewLibrary(SoundSystem.java:1576)
+[20:24:45] [Thread-6/INFO]: paulscode.sound.SoundSystem.CommandQueue(SoundSystem.java:2572)
+[20:24:45] [Thread-6/INFO]: paulscode.sound.CommandThread.run(CommandThread.java:121)
+[20:24:46] [Sound Library Loader/WARN]: ERROR MESSAGE:
+[20:24:46] [Sound Library Loader/INFO]: Could not locate OpenAL library.
+[20:24:46] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[20:24:46] [Client thread/WARN]: Unable to load block model: 'minecraft:block/tall_grass2' for variant: 'minecraft:tall_grass#normal'
+java.io.FileNotFoundException: minecraft:models/block/tall_grass2.json
+	at cvc.a(SourceFile:52) ~[1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:55) ~[1.8-mcpatcher.jar:?]
+	at cxh.c(SourceFile:259) ~[1.8-mcpatcher.jar:?]
+	at cxh.c(SourceFile:227) [1.8-mcpatcher.jar:?]
+	at cxh.b(SourceFile:159) [1.8-mcpatcher.jar:?]
+	at cxh.a(SourceFile:135) [1.8-mcpatcher.jar:?]
+	at cxk.a(SourceFile:23) [1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:99) [1.8-mcpatcher.jar:?]
+	at bsu.aj(SourceFile:437) [1.8-mcpatcher.jar:?]
+	at bsu.a(SourceFile:299) [1.8-mcpatcher.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:120) [1.8-mcpatcher.jar:?]
+[20:24:46] [Client thread/WARN]: Unable to load block model: 'minecraft:block/tall_grass3' for variant: 'minecraft:tall_grass#normal'
+java.io.FileNotFoundException: minecraft:models/block/tall_grass3.json
+	at cvc.a(SourceFile:52) ~[1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:55) ~[1.8-mcpatcher.jar:?]
+	at cxh.c(SourceFile:259) ~[1.8-mcpatcher.jar:?]
+	at cxh.c(SourceFile:227) [1.8-mcpatcher.jar:?]
+	at cxh.b(SourceFile:159) [1.8-mcpatcher.jar:?]
+	at cxh.a(SourceFile:135) [1.8-mcpatcher.jar:?]
+	at cxk.a(SourceFile:23) [1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:99) [1.8-mcpatcher.jar:?]
+	at bsu.aj(SourceFile:437) [1.8-mcpatcher.jar:?]
+	at bsu.a(SourceFile:299) [1.8-mcpatcher.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:120) [1.8-mcpatcher.jar:?]
+[20:24:46] [Client thread/WARN]: Unable to load block model: 'minecraft:block/tall_grass4' for variant: 'minecraft:tall_grass#normal'
+java.io.FileNotFoundException: minecraft:models/block/tall_grass4.json
+	at cvc.a(SourceFile:52) ~[1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:55) ~[1.8-mcpatcher.jar:?]
+	at cxh.c(SourceFile:259) ~[1.8-mcpatcher.jar:?]
+	at cxh.c(SourceFile:227) [1.8-mcpatcher.jar:?]
+	at cxh.b(SourceFile:159) [1.8-mcpatcher.jar:?]
+	at cxh.a(SourceFile:135) [1.8-mcpatcher.jar:?]
+	at cxk.a(SourceFile:23) [1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:99) [1.8-mcpatcher.jar:?]
+	at bsu.aj(SourceFile:437) [1.8-mcpatcher.jar:?]
+	at bsu.a(SourceFile:299) [1.8-mcpatcher.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:120) [1.8-mcpatcher.jar:?]
+[20:24:46] [Thread-8/INFO]: Switching to No Sound
+[20:24:46] [Thread-8/INFO]: (Silent Mode)
+[20:24:46] [Client thread/WARN]: In parent chain: minecraft:block/normal_rail_flat_plank_1 -> minecraft:blocks/block/normal_rail_flat_plank; unable to load model: 'minecraft:blocks/block/normal_rail_flat_plank'
+java.io.FileNotFoundException: minecraft:models/blocks/block/normal_rail_flat_plank.json
+	at cvc.a(SourceFile:52) ~[1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:55) ~[1.8-mcpatcher.jar:?]
+	at cxh.c(SourceFile:259) ~[1.8-mcpatcher.jar:?]
+	at cxh.i(SourceFile:486) [1.8-mcpatcher.jar:?]
+	at cxh.h(SourceFile:457) [1.8-mcpatcher.jar:?]
+	at cxh.a(SourceFile:137) [1.8-mcpatcher.jar:?]
+	at cxk.a(SourceFile:23) [1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:99) [1.8-mcpatcher.jar:?]
+	at bsu.aj(SourceFile:437) [1.8-mcpatcher.jar:?]
+	at bsu.a(SourceFile:299) [1.8-mcpatcher.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:120) [1.8-mcpatcher.jar:?]
+[20:24:46] [Client thread/WARN]: Missing model for: minecraft:tall_grass#normal
+[20:24:46] [Client thread/WARN]: Missing model for: minecraft:tall_grass#normal
+[20:24:46] [Client thread/WARN]: Missing model for: minecraft:tall_grass#normal
+[20:24:46] [Sound Library Loader/INFO]: Sound engine started
+[20:24:47] [Client thread/WARN]: Texture minecraft:mcpatcher/ctm/hard_materials/chiseledstone/normal/3.png with size 31x31 limits mip level from 2 to 0
+[20:24:48] [Client thread/ERROR]: Unable to parse metadata from minecraft:mcpatcher/ctm/organic_and_soft_material/grass_top/top/13.png
+java.lang.RuntimeException: broken aspect ratio and not an animation
+	at cue.a(SourceFile:236) ~[1.8-mcpatcher.jar:?]
+	at cua.b(SourceFile:130) [1.8-mcpatcher.jar:?]
+	at cua.a(SourceFile:77) [1.8-mcpatcher.jar:?]
+	at cxh.j(SourceFile:553) [1.8-mcpatcher.jar:?]
+	at cxh.a(SourceFile:139) [1.8-mcpatcher.jar:?]
+	at cxk.a(SourceFile:23) [1.8-mcpatcher.jar:?]
+	at cvt.a(SourceFile:99) [1.8-mcpatcher.jar:?]
+	at bsu.aj(SourceFile:437) [1.8-mcpatcher.jar:?]
+	at bsu.a(SourceFile:299) [1.8-mcpatcher.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:120) [1.8-mcpatcher.jar:?]
+[20:24:50] [Client thread/INFO]: Created: 4096x4096 textures-atlas
+[20:24:54] [Client thread/WARN]: Missing model for: minecraft:rail#shape=east_west
+[20:24:54] [Client thread/WARN]: Missing model for: minecraft:rail#shape=north_south
+[20:24:54] [Client thread/WARN]: Missing model for: minecraft:tall_grass#normal
+[20:24:54] [Client thread/WARN]: Missing model for: minecraft:tall_grass#normal
+[20:24:54] [Client thread/WARN]: Missing model for: minecraft:tall_grass#normal
+[20:25:07] [Server thread/INFO]: Starting integrated minecraft server version 1.8
+[20:25:07] [Server thread/INFO]: Generating keypair
+[20:25:08] [Server thread/INFO]: Preparing start region for level 0
+[20:25:08] [Server thread/INFO]: Changing view distance to 20, from 10
+[20:25:08] [Server thread/INFO]: raxenoth[local:E:3dcf352e] logged in with entity id 120 at (1274.2786225827333, 103.72695063564143, 197.45384457979927)
+[20:25:08] [Server thread/INFO]: raxenoth joined the game
+[20:25:11] [Client thread/WARN]: Failed reading metadata of: minecraft:textures/misc/vignette.png
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Expected name at line 6 column 2
+	at com.google.gson.internal.Streams.parse(Streams.java:56) ~[gson-2.2.4.jar:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:84) ~[gson-2.2.4.jar:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:59) ~[gson-2.2.4.jar:?]
+	at cvv.a(SourceFile:61) ~[1.8-mcpatcher.jar:?]
+	at ctv.a(SourceFile:37) [1.8-mcpatcher.jar:?]
+	at cug.a(SourceFile:56) [1.8-mcpatcher.jar:?]
+	at cug.a(SourceFile:38) [1.8-mcpatcher.jar:?]
+	at btz.a(SourceFile:814) [1.8-mcpatcher.jar:?]
+	at btz.a(SourceFile:120) [1.8-mcpatcher.jar:?]
+	at cji.b(SourceFile:1002) [1.8-mcpatcher.jar:?]
+	at bsu.as(SourceFile:903) [1.8-mcpatcher.jar:?]
+	at bsu.a(SourceFile:314) [1.8-mcpatcher.jar:?]
+	at net.minecraft.client.main.Main.main(SourceFile:120) [1.8-mcpatcher.jar:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Expected name at line 6 column 2
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1505) ~[gson-2.2.4.jar:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:494) ~[gson-2.2.4.jar:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:403) ~[gson-2.2.4.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$25.read(TypeAdapters.java:666) ~[gson-2.2.4.jar:?]
+	at com.google.gson.internal.bind.TypeAdapters$25.read(TypeAdapters.java:642) ~[gson-2.2.4.jar:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:44) ~[gson-2.2.4.jar:?]
+	... 12 more
+[20:25:14] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[20:25:23] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[20:25:30] [Server thread/INFO]: [@: Set the time to 0]
+[20:25:30] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:25:47] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[20:25:53] [Chunk Batcher 0/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[20:25:53] [Chunk Batcher 1/WARN]: Needed to grow BufferBuilder buffer: Old size 524288 bytes, new size 2621440 bytes.
+[20:30:45] [Server thread/INFO]: [@: Changing to clear weather]
+[20:30:45] [Server thread/INFO]: [@: Set the time to 0]
+[20:30:45] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:30:45] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:32:48] [Server thread/INFO]: [@: Changing to clear weather]
+[20:32:48] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:33:24] [Server thread/INFO]: [@: Set the time to 0]
+[20:33:24] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:35:27] [Server thread/INFO]: [@: Changing to clear weather]
+[20:35:27] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:36:03] [Server thread/INFO]: [@: Set the time to 0]
+[20:36:03] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:38:06] [Server thread/INFO]: [@: Changing to clear weather]
+[20:38:06] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:38:42] [Server thread/INFO]: [@: Set the time to 0]
+[20:38:42] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:40:45] [Server thread/INFO]: [@: Changing to clear weather]
+[20:40:45] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:41:21] [Server thread/INFO]: [@: Set the time to 0]
+[20:41:21] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:43:24] [Server thread/INFO]: [@: Changing to clear weather]
+[20:43:24] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:44:00] [Server thread/INFO]: [@: Set the time to 0]
+[20:44:00] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:46:03] [Server thread/INFO]: [@: Changing to clear weather]
+[20:46:03] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:46:22] [Server thread/INFO]: Saving and pausing game...
+[20:46:22] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[20:46:22] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[20:46:22] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[20:46:41] [Server thread/INFO]: [@: Set the time to 0]
+[20:46:41] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:48:03] [Server thread/INFO]: Saving and pausing game...
+[20:48:03] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[20:48:03] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[20:48:03] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[20:48:46] [Server thread/INFO]: [@: Changing to clear weather]
+[20:48:46] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:49:22] [Server thread/INFO]: [@: Set the time to 0]
+[20:49:22] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:51:25] [Server thread/INFO]: [@: Changing to clear weather]
+[20:51:25] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:52:01] [Server thread/INFO]: [@: Set the time to 0]
+[20:52:01] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:54:04] [Server thread/INFO]: [@: Changing to clear weather]
+[20:54:04] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:54:40] [Server thread/INFO]: [@: Set the time to 0]
+[20:54:40] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:56:43] [Server thread/INFO]: [@: Changing to clear weather]
+[20:56:43] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:57:19] [Server thread/INFO]: [@: Set the time to 0]
+[20:57:19] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[20:59:22] [Server thread/INFO]: [@: Changing to clear weather]
+[20:59:22] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[20:59:58] [Server thread/INFO]: [@: Set the time to 0]
+[20:59:58] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[21:02:01] [Server thread/INFO]: [@: Changing to clear weather]
+[21:02:01] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[21:02:37] [Server thread/INFO]: [@: Set the time to 0]
+[21:02:37] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[21:04:40] [Server thread/INFO]: [@: Changing to clear weather]
+[21:04:40] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[21:05:16] [Server thread/INFO]: [@: Set the time to 0]
+[21:05:16] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[21:07:19] [Server thread/INFO]: [@: Changing to clear weather]
+[21:07:19] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[21:07:55] [Server thread/INFO]: [@: Set the time to 0]
+[21:07:55] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[21:09:58] [Server thread/INFO]: [@: Changing to clear weather]
+[21:09:58] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[21:10:34] [Server thread/INFO]: [@: Set the time to 0]
+[21:10:34] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[21:12:37] [Server thread/INFO]: [@: Changing to clear weather]
+[21:12:37] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[21:13:13] [Server thread/INFO]: [@: Set the time to 0]
+[21:13:13] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[21:15:16] [Server thread/INFO]: [@: Changing to clear weather]
+[21:15:16] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[21:15:50] [Server thread/INFO]: Saving and pausing game...
+[21:15:50] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[21:15:50] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[21:15:50] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[21:53:03] [Server thread/INFO]: [@: Set the time to 0]
+[21:53:03] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[21:55:06] [Server thread/INFO]: [@: Changing to clear weather]
+[21:55:06] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[21:55:42] [Server thread/INFO]: [@: Set the time to 0]
+[21:55:42] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[21:57:45] [Server thread/INFO]: [@: Changing to clear weather]
+[21:57:45] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[21:58:21] [Server thread/INFO]: [@: Set the time to 0]
+[21:58:21] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:00:24] [Server thread/INFO]: [@: Changing to clear weather]
+[22:00:24] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:01:00] [Server thread/INFO]: [@: Set the time to 0]
+[22:01:00] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:03:03] [Server thread/INFO]: [@: Changing to clear weather]
+[22:03:03] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:03:39] [Server thread/INFO]: [@: Set the time to 0]
+[22:03:39] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:05:42] [Server thread/INFO]: [@: Changing to clear weather]
+[22:05:42] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:06:18] [Server thread/INFO]: [@: Set the time to 0]
+[22:06:18] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:08:21] [Server thread/INFO]: [@: Changing to clear weather]
+[22:08:21] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:08:57] [Server thread/INFO]: [@: Set the time to 0]
+[22:08:57] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:11:00] [Server thread/INFO]: [@: Changing to clear weather]
+[22:11:00] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:11:27] [Server thread/INFO]: Saving and pausing game...
+[22:11:27] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[22:11:27] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[22:11:27] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[22:11:37] [Server thread/INFO]: [@: Set the time to 0]
+[22:11:37] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:13:40] [Server thread/INFO]: [@: Changing to clear weather]
+[22:13:40] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:14:16] [Server thread/INFO]: [@: Set the time to 0]
+[22:14:16] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:16:19] [Server thread/INFO]: [@: Changing to clear weather]
+[22:16:19] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:16:56] [Server thread/INFO]: [@: Set the time to 0]
+[22:16:56] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:18:58] [Server thread/INFO]: [@: Changing to clear weather]
+[22:18:58] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:19:34] [Server thread/INFO]: [@: Set the time to 0]
+[22:19:34] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:20:14] [Server thread/INFO]: Saving and pausing game...
+[22:20:14] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[22:20:15] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[22:22:19] [Server thread/INFO]: [@: Changing to clear weather]
+[22:22:19] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:22:55] [Server thread/INFO]: [@: Set the time to 0]
+[22:22:55] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:24:58] [Server thread/INFO]: [@: Changing to clear weather]
+[22:24:58] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:25:34] [Server thread/INFO]: [@: Set the time to 0]
+[22:25:34] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:27:37] [Server thread/INFO]: [@: Changing to clear weather]
+[22:27:37] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:28:13] [Server thread/INFO]: [@: Set the time to 0]
+[22:28:13] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:30:16] [Server thread/INFO]: [@: Changing to clear weather]
+[22:30:16] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:30:52] [Server thread/INFO]: [@: Set the time to 0]
+[22:30:52] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:32:55] [Server thread/INFO]: [@: Changing to clear weather]
+[22:32:55] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:33:31] [Server thread/INFO]: [@: Set the time to 0]
+[22:33:31] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:35:34] [Server thread/INFO]: [@: Changing to clear weather]
+[22:35:34] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:36:10] [Server thread/INFO]: [@: Set the time to 0]
+[22:36:10] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:37:48] [Server thread/INFO]: Saving and pausing game...
+[22:37:48] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[22:37:48] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[22:37:48] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[22:46:07] [Server thread/INFO]: [@: Changing to clear weather]
+[22:46:07] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:46:07] [Server thread/INFO]: Saving and pausing game...
+[22:46:07] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[22:46:07] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[22:46:07] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[22:46:51] [Server thread/INFO]: [@: Set the time to 0]
+[22:46:51] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:48:54] [Server thread/INFO]: [@: Changing to clear weather]
+[22:48:54] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:49:30] [Server thread/INFO]: [@: Set the time to 0]
+[22:49:30] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:51:33] [Server thread/INFO]: [@: Changing to clear weather]
+[22:51:33] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:52:09] [Server thread/INFO]: [@: Set the time to 0]
+[22:52:09] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:54:20] [Server thread/INFO]: [@: Changing to clear weather]
+[22:54:20] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:54:48] [Server thread/INFO]: [@: Set the time to 0]
+[22:54:48] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:57:17] [Server thread/INFO]: [@: Changing to clear weather]
+[22:57:17] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[22:57:27] [Server thread/INFO]: [@: Set the time to 0]
+[22:57:27] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[22:59:30] [Server thread/INFO]: [@: Changing to clear weather]
+[22:59:30] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:00:21] [Server thread/INFO]: [@: Set the time to 0]
+[23:00:21] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:02:49] [Server thread/INFO]: [@: Changing to clear weather]
+[23:02:49] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:03:05] [Server thread/INFO]: [@: Set the time to 0]
+[23:03:05] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:05:08] [Server thread/INFO]: [@: Changing to clear weather]
+[23:05:08] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:05:20] [Server thread/INFO]: Saving and pausing game...
+[23:05:20] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[23:05:21] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[23:05:21] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[23:06:25] [Server thread/INFO]: [@: Set the time to 0]
+[23:06:25] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:08:29] [Server thread/INFO]: [@: Changing to clear weather]
+[23:08:29] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:09:04] [Server thread/INFO]: [@: Set the time to 0]
+[23:09:04] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:11:07] [Server thread/INFO]: [@: Changing to clear weather]
+[23:11:07] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:11:43] [Server thread/INFO]: [@: Set the time to 0]
+[23:11:43] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:13:46] [Server thread/INFO]: [@: Changing to clear weather]
+[23:13:46] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:14:22] [Server thread/INFO]: [@: Set the time to 0]
+[23:14:22] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:16:43] [Server thread/INFO]: [@: Changing to clear weather]
+[23:16:43] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:17:01] [Server thread/INFO]: [@: Set the time to 0]
+[23:17:01] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:19:04] [Server thread/INFO]: [@: Changing to clear weather]
+[23:19:04] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:19:40] [Server thread/INFO]: [@: Set the time to 0]
+[23:19:40] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:21:45] [Server thread/INFO]: [@: Changing to clear weather]
+[23:21:45] [Client thread/INFO]: [CHAT] [@: Changing to clear weather]
+[23:22:19] [Server thread/INFO]: [@: Set the time to 0]
+[23:22:19] [Client thread/INFO]: [CHAT] [@: Set the time to 0]
+[23:24:23] [Server thread/INFO]: Saving and pausing game...
+[23:24:23] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[23:24:23] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[23:24:23] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[23:24:25] [Server thread/INFO]: Stopping server
+[23:24:25] [Server thread/INFO]: Saving players
+[23:24:25] [Server thread/INFO]: Saving worlds
+[23:24:25] [Server thread/INFO]: Saving chunks for level 'solo'/Overworld
+[23:24:25] [Server thread/INFO]: Saving chunks for level 'solo'/Nether
+[23:24:25] [Server thread/INFO]: Saving chunks for level 'solo'/The End
+[23:27:22] [Client thread/INFO]: Stopping!
+[23:27:22] [Client thread/INFO]: SoundSystem shutting down...
+[23:27:22] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com
